@@ -20,3 +20,8 @@ logs/
 /.plugins/
 /.opencode-skills/
 *.md
+
+.agents/
+.claude/
+.figma/
+.firebase/
