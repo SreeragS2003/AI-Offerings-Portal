@@ -25,3 +25,5 @@ logs/
 .claude/
 .figma/
 .firebase/
+
+*.png
